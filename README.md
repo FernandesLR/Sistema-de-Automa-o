@@ -1,6 +1,6 @@
-# Sistema-de-Automa-o
+# Sistema de Automação
 
-Este é um bot que cadastra dados automaticamente em um site, desenvolvido em Python utilizando a biblioteca Selenium.
+Projeto de automação com Python que cadastra dados automaticamente em um site, desenvolvido em Python utilizando a biblioteca Selenium.
 
 Descrição
 Este sistema simples automatiza o cadastro de dados em um site. Ele solicita o nome da planilha, o nome da folha e a quantidade de linhas que você deseja cadastrar. Após essas informações, o sistema abre uma nova guia no seu navegador com um site específico e cadastra os dados da planilha automaticamente.
